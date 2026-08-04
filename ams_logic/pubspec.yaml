@@ -1,0 +1,11 @@
+name: ams_logic
+description: Phase 1 business logic for the Smart Attendance Management System (Dynamic OTP, in-memory).
+publish_to: none
+version: 0.1.0
+
+environment:
+  sdk: ^3.4.0
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^4.0.0
